@@ -56,6 +56,7 @@ DEFAULT_CONFIGURATION = {
     'ssl_cert': None,
     'ssl_key': None,
     'ssl_verify_cert': False,
+    'ssl_ciphers': None,
     'passwd': None,
     'db': None,
     'connect_timeout': None,
